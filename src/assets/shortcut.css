@@ -1,0 +1,11 @@
+#shortcut-icons {
+    border: 2px solid grey;
+    border-radius:20px;
+    height: 6rem;
+    width: 15rem;
+    transition: all 0.5s ease;
+}
+
+#shortcut-icons:hover {
+    border-color: red;
+}

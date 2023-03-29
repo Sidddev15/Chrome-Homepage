@@ -1,0 +1,13 @@
+#SearchBar {
+    border: 1px solid grey;
+    border-radius: 20px;
+    width: 50%;
+}
+
+#SearchBar:hover {
+    border-color: red;
+}
+
+.my-100 {
+    margin-top: 100px;
+}
