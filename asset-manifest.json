@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chrome-Homepage/static/css/main.38a9d237.css",
+    "main.js": "/Chrome-Homepage/static/js/main.8d200338.js",
+    "index.html": "/Chrome-Homepage/index.html",
+    "main.38a9d237.css.map": "/Chrome-Homepage/static/css/main.38a9d237.css.map",
+    "main.8d200338.js.map": "/Chrome-Homepage/static/js/main.8d200338.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38a9d237.css",
+    "static/js/main.8d200338.js"
+  ]
+}
