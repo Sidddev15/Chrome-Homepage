@@ -1,34 +1,68 @@
 
 
-body{
-    background-image: linear-gradient(to top, black, rgb(58, 58, 58));
-}
+html,body{
+    background-image: url('https://i.pinimg.com/originals/44/eb/c3/44ebc3095a5deba2973f0e5fd3fb92b5.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}    
 h2 {
     color: floralwhite;
     font-size: 3rem;
 }
 
 #social-icons{
-    margin: 10px 5px;
+    margin: 2rem 1rem;
     border: none;
     border-radius: 10px;
     background:none;
-    height: 3rem;
-    width: 3rem;
+    height: 3.5rem;
+    width: 3.5rem;
     display: inline-flexbox;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-}
-
-a {
-    text-decoration: none;
-    color: floralwhite;
-    font-size: 1.5rem;
     transition: all 0.5s ease;
-    margin: 1rem 2rem;
 }
 
-a:hover {
-    color: red;
+#social-icons:hover {
+    transform: scale(1.5);
 }
+
+#facebook {
+    color: #4267B2;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+#twitter {
+    color: #1DA1F2;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+#linkedin {
+    color: #0072b1;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+#instagram {
+    color: #cc1e3b;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+#skype {
+    color: #00aff0;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+#github {
+    color: #171515;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+#stackoverflow {
+    color: #F48024;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+

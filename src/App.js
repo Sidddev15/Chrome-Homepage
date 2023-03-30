@@ -9,13 +9,15 @@ import './assets/socialLinks.css';
 function App () {
     return (
         <div>
+            <Editable />
             <SocialLinks />
+            <SearchBar />
             <Socials />
             <Shortcut />
-            <SearchBar />
-            <Editable />
         </div>
     );
+
+            
             
 }
 
